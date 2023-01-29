@@ -1,7 +1,7 @@
 ---
 title: Identifying and securing sound investments since 1955
 subtitle: Property Management
-image: img/home-about-section.jpg
+image: img/building.webp
 blurb:
   heading: "Kalmax "
   text: >-
